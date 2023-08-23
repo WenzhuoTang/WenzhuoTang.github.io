@@ -12,6 +12,7 @@ I am a second year Ph.D. student in [Computer Science and Engineering](https://w
 
 News
 ======
+* [08/2023] Our paper [Single-Cell Multimodal Prediction via Transformers](https://arxiv.org/abs/2303.00233) got accepted by CIKM'23!
 * [11/2022] Our team DANCE won a Silver Medel (rank 24 / 1221) in a [Kaggle](https://www.kaggle.com/competitions/open-problems-multimodal/leaderboard) single-cell competition!
 * [10/2022] Our survey paper [Deep Learning in Single-Cell Analysis](https://arxiv.org/abs/2210.12385) is released!
 * [10/2022] Our [DANCE](https://github.com/OmicsML/dance) package is pre-released!
