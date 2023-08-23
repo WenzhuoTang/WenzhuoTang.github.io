@@ -15,8 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-Preprints
-======
+**Preprints**
+
 * Hongzhi Wen, **Wenzhuo Tang**, Wei Jin, Jiayuan Ding, Renming Liu, Feng Shi, Yuying Xie, Jiliang Tang  
   **Single Cells Are Spatial Tokens: Transformers for Spatial Transcriptomic Data Imputation** [[pdf]](https://arxiv.org/abs/2302.03038)
 
@@ -30,8 +30,8 @@ Preprints
   **DANCE: A Deep Learning Library and Benchmark for Single-Cell Analysis** [[pdf]](https://www.biorxiv.org/content/10.1101/2022.10.19.512741v3.abstract)
 
 
-Conference/Journal Papers
-======
+**Conference/Journal Papers**
+
 * **Wenzhuo Tang<sup>\*</sup>**, Hongzhi Wen<sup>\*</sup>, Renming Liu<sup>\*</sup>, Jiayuan Ding, Wei Jin, Yuying Xie, Hui Liu, Jiliang Tang  
   **Single-Cell Multimodal Prediction via Transformers** [[pdf]](https://arxiv.org/abs/2303.00233) [[code]](https://github.com/OmicsML/scMoFormer/)  
   In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM), 2023
