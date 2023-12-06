@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D. student in [Computer Science and Engineering](https://www.cse.msu.edu/) and [Statistics and Probability](https://stt.natsci.msu.edu/) at Michigan State University, advised by Prof. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/) and Prof. [Yuying Xie](https://directory.natsci.msu.edu/Directory/Profiles/Person/101084?org=44&group=145). I revieved my B.S. in [Statistics](https://en.business.ustc.edu.cn/audsf/list.htm) at University of Science and Technology of China. My current researches focus on score-based models, graph neural networks and their applications in single-cell analysis. 
+I am a second year Ph.D. student in [Computer Science and Engineering](https://www.cse.msu.edu/) and [Statistics and Probability](https://stt.natsci.msu.edu/) at Michigan State University, advised by Prof. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/) and Prof. [Yuying Xie](https://directory.natsci.msu.edu/Directory/Profiles/Person/101084?org=44&group=145). I revieved my B.S. in [Statistics](https://en.business.ustc.edu.cn/audsf/list.htm) at University of Science and Technology of China. My current researches focus on generative models, graph neural networks and their applications in single-cell analysis. 
 
 News
 ======
