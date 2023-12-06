@@ -17,6 +17,12 @@ author_profile: true
 
 **Preprints**
 
+* **Wenzhuo Tang<sup>\*</sup>**, Renming Liu<sup>\*</sup>, Hongzhi Wen, Xinnan Dai, Jiayuan Ding, Hang Li, Wenqi Fan, Yuying Xie, Jiliang Tang
+  **A General Single-Cell Analysis Framework via Conditional Diffusion Generative Models** [[pdf]](https://www.biorxiv.org/content/10.1101/2023.10.13.562243v1)
+
+* Hongzhi Wen<sup>\*</sup>, **Wenzhuo Tang<sup>\*</sup>**, Xinnan Dai, Jiayuan Ding, Wei Jin, Yuying Xie, Jiliang Tang  
+  **CellPLM: Pre-training of Cell Language Model Beyond Single Cells** [[pdf]](https://www.biorxiv.org/content/10.1101/2023.10.03.560734v1)
+
 * Hongzhi Wen, **Wenzhuo Tang**, Wei Jin, Jiayuan Ding, Renming Liu, Feng Shi, Yuying Xie, Jiliang Tang  
   **Single Cells Are Spatial Tokens: Transformers for Spatial Transcriptomic Data Imputation** [[pdf]](https://arxiv.org/abs/2302.03038)
 
