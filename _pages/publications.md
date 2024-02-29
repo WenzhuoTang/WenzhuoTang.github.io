@@ -36,10 +36,10 @@ author_profile: true
   **CellPLM: Pre-training of Cell Language Model Beyond Single Cells** [[pdf]](https://openreview.net/forum?id=BKXvPDekud)
   The Twelfth International Conference on Learning Representations (ICLR). 2024.
 
+* Dylan Molho<sup>\*</sup>, Jiayuan Ding<sup>\*</sup>, **Wenzhuo Tang<sup>\*</sup>**, Zhaoheng Li, Hongzhi Wen, Yixin Wang, Julian Venegas, Wei Jin, Renming Liu, Runze Su, Patrick Danaher, Robert Yang, Yu Leo Lei, Yuying Xie, Jiliang Tang  
+  **Deep Learning in Single-Cell Analysis** [[pdf]](https://dl.acm.org/doi/abs/10.1145/3641284)
+  ACM Transactions on Intelligent Systems and Technology (2024).
+
 * **Wenzhuo Tang<sup>\*</sup>**, Hongzhi Wen<sup>\*</sup>, Renming Liu<sup>\*</sup>, Jiayuan Ding, Wei Jin, Yuying Xie, Hui Liu, Jiliang Tang  
   **Single-Cell Multimodal Prediction via Transformers** [[pdf]](https://arxiv.org/abs/2303.00233) [[code]](https://github.com/OmicsML/scMoFormer/)  
   In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM), 2023
-
-* Dylan Molho<sup>\*</sup>, Jiayuan Ding<sup>\*</sup>, **Wenzhuo Tang<sup>\*</sup>**, Zhaoheng Li, Hongzhi Wen, Yixin Wang, Julian Venegas, Wei Jin, Renming Liu, Runze Su, Patrick Danaher, Robert Yang, Yu Leo Lei, Yuying Xie, Jiliang Tang  
-  **Deep Learning in Single-Cell Analysis** [[pdf]](https://dl.acm.org/doi/abs/10.1145/3641284)
-  ACM Transactions on Intelligent Systems and Technology (2022).
