@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV (PDF)]({{ '/files/WenzhuoTang_CV.pdf' | relative_url }})
+[Download my CV (09/2025)]({{ '/files/WenzhuoTang_CV.pdf' | relative_url }})
 
-Research Statement
+<!-- Research Statement
 ======
 I am a final-year Ph.D. student in Statistics and Computer Science at Michigan State University, co-advised by Prof. Jiliang Tang and Prof. Yuying Xie and currently a visiting researcher at Stanford University with Prof. Xiaojie Qiu. My research develops foundation models at the intersection of artificial intelligence and biology. I build methods that capture cross-scale biological patterns—from genes and cells to tissues and organs—to advance our understanding of development and disease mechanisms.
 
@@ -68,4 +68,4 @@ Technical Strengths
 | Machine Learning Frameworks | PyTorch, PyTorch Geometric, HuggingFace, CUDA |
 | Biological Data Analysis | scRNA-seq, MERFISH, scATAC-seq, CITE-seq, NGS analysis |
 | Bioinformatics Tools | Scanpy, Seurat, Squidpy, Cell Ranger, Monocle, Bioconductor |
-| Programming | Python, R, C/C++, MATLAB; Docker, CMake, Git/GitHub |
+| Programming | Python, R, C/C++, MATLAB; Docker, CMake, Git/GitHub | -->
