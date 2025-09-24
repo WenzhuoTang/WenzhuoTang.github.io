@@ -59,11 +59,11 @@ author_profile: true
 
 **Preprints**
 
-* **W. Tang<sup>\*</sup>**, R. Liu<sup>\*</sup>, H. Wen, X. Dai, J. Ding, H. Li, W. Fan, Y. Xie, J. Tang. \
+* **W. Tang<sup>\*</sup>**, R. Liu<sup>\*</sup>, et al. \
   **A General Single-Cell Analysis Framework via Conditional Diffusion Generative Models.** [[pdf]](https://www.biorxiv.org/content/10.1101/2023.10.13.562243v1) \
   *bioRxiv*, 2023.
 
-* H. Wen, **W. Tang**, W. Jin, J. Ding, R. Liu, F. Shi, Y. Xie, J. Tang. \
+* H. Wen, **W. Tang**, et al. \
   **Single Cells Are Spatial Tokens: Transformers for Spatial Transcriptomic Data Denoising.** [[pdf]](https://arxiv.org/abs/2302.03038) \
   *arXiv*, 2023.
 
