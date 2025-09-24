@@ -15,39 +15,62 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+**Journal Papers**
+
+* J. Ding<sup>*</sup>, H. Wen<sup>*</sup>, **W. Tang<sup>*</sup>**, R. Liu<sup>*</sup>, et al. \
+  **DANCE: A Deep Learning Library and Benchmark Platform for Single-cell Analysis.** [[link]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03211-z) \
+  *Genome Biology*, 2024.
+
+* D. Molho<sup>*</sup>, J. Ding<sup>*</sup>, **W. Tang<sup>*</sup>**, et al. \
+  **Deep Learning in Single-Cell Analysis.** [[pdf]](https://dl.acm.org/doi/abs/10.1145/3641284) \
+  *ACM Transactions on Intelligent Systems and Technology (ACM TIST)*, 2024.
+
+* S. Wang, J. Huang, Z. Chen, Y. Song, **W. Tang**, et al. \
+  **Graph Machine Learning in the Era of Large Language Models (LLMs).** [[link]](https://dl.acm.org/doi/10.1145/3732786) \
+  *ACM Transactions on Intelligent Systems and Technology (ACM TIST)*, 2025.
+
+* J. Ding, J. Venegas, Q. Lu, Y. Wang, W. Jin, H. Wen, R. Liu, **W. Tang**, et al. \
+  **SpatialCTD: A Large-Scale Tumor Microenvironment Spatial Transcriptomic Dataset to Evaluate Cell Type Deconvolution for Immuno-Oncology.** [[pdf]](https://www.biorxiv.org/content/10.1101/2023.04.11.536333v1) \
+  *Journal of Computational Biology*, 2024.
+
+
+**Conference Papers**
+
+* **W. Tang**, et al. \
+  **Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models.** [[pdf]](https://arxiv.org/abs/2406.01899) \
+  *NeurIPS*, 2025.
+
+* H. Wen<sup>*</sup>, **W. Tang<sup>*</sup>**, et al. \
+  **CellPLM: Pre-training of Cell Language Model Beyond Single Cells.** [[pdf]](https://openreview.net/forum?id=BKXvPDekud) \
+  *ICLR*, 2024.
+
+* H. Mao<sup>*</sup>, Z. Chen<sup>*</sup>, **W. Tang**, et al. \
+  **Position: Graph Foundation Models Are Already Here.** [[pdf]](https://arxiv.org/abs/2402.02216) \
+  *ICML* (**Spotlight**), 2024.
+
+* **W. Tang<sup>*</sup>**, H. Wen<sup>*</sup>, R. Liu<sup>*</sup>, et al. \
+  **Single-Cell Multimodal Prediction via Transformers.** [[pdf]](https://arxiv.org/abs/2303.00233) \
+  *CIKM*, 2023.
+
+* H. Li, W. Jin, G. Skenderi, H. Shomer, **W. Tang**, et al. \
+  **Sub-graph Based Diffusion Model for Link Prediction.** \
+  *Learning on Graphs Conference (LoG)*, 2024.
+
+
 **Preprints**
 
-* **Wenzhuo Tang**, Haitao Mao, Danial Dervovic, Ivan Brugere, Saumitra Mishra, Yuying Xie, Jiliang Tang \
-  **Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models** [[pdf]](https://arxiv.org/abs/2406.01899v1)
+* **W. Tang<sup>*</sup>**, R. Liu<sup>*</sup>, H. Wen, X. Dai, J. Ding, H. Li, W. Fan, Y. Xie, J. Tang. \
+  **A General Single-Cell Analysis Framework via Conditional Diffusion Generative Models.** [[pdf]](https://www.biorxiv.org/content/10.1101/2023.10.13.562243v1) \
+  *bioRxiv*, 2023.
 
-* **Wenzhuo Tang<sup>\*</sup>**, Renming Liu<sup>\*</sup>, Hongzhi Wen, Xinnan Dai, Jiayuan Ding, Hang Li, Wenqi Fan, Yuying Xie, Jiliang Tang \
-  **A General Single-Cell Analysis Framework via Conditional Diffusion Generative Models** [[pdf]](https://www.biorxiv.org/content/10.1101/2023.10.13.562243v1)
+* H. Wen, **W. Tang**, W. Jin, J. Ding, R. Liu, F. Shi, Y. Xie, J. Tang. \
+  **Single Cells Are Spatial Tokens: Transformers for Spatial Transcriptomic Data Denoising.** [[pdf]](https://arxiv.org/abs/2302.03038) \
+  *arXiv*, 2023.
 
-* Hongzhi Wen, **Wenzhuo Tang**, Wei Jin, Jiayuan Ding, Renming Liu, Feng Shi, Yuying Xie, Jiliang Tang \
-  **Single Cells Are Spatial Tokens: Transformers for Spatial Transcriptomic Data Imputation** [[pdf]](https://arxiv.org/abs/2302.03038)
+* J. Ding, Z. Xing, Y. Wang, R. Liu, S. Liu, Z. Huang, **W. Tang**, et al. \
+  **DANCE 2.0: Transforming Single-Cell Analysis from Black Box to Transparent Workflow.** \
+  *bioRxiv*, 2025.
 
-* Jiayuan Ding<sup>\*</sup>, Hongzhi Wen<sup>\*</sup>, **Wenzhuo Tang<sup>\*</sup>**, Renming Liu, Zhaoheng Li, Julian Venegas, Runze Su, Dylan Molho, Wei Jin, Wangyang Zuo, Yixin Wang, Robert Yang, Yuying Xie, Jiliang Tang \
-  **DANCE: A Deep Learning Library and Benchmark for Single-Cell Analysis** [[pdf]](https://www.biorxiv.org/content/10.1101/2022.10.19.512741v3.abstract)
-
-
-**Conference/Journal Papers**
-
-* Haitao Mao<sup>\*</sup>, Zhikai Chen<sup>\*</sup>, **Wenzhuo Tang**, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Mikhail Galkin, Jiliang Tang \
-  **Position: Graph Foundation Models Are Already Here** [[pdf]](https://arxiv.org/abs/2402.02216) \
-  Forty-first International Conference on Machine Learning (ICML), **Spotlight**, 2024
-
-* Jiayuan Ding, Julian Venegas, Qiaolin Lu, Yixin Wang, Lidan Wu, Wei Jin, Hongzhi Wen, Renming Liu, **Wenzhuo Tang**, Zhaoheng Li, Wangyang Zuo, Yi Chang, Yu Leo Lei,  View ORCID ProfilePatrick Danaher, Yuying Xie, Jiliang Tang \
-  **SpatialCTD: a large-scale TME spatial transcriptomic dataset to evaluate cell type deconvolution for immuno-oncology** [[pdf]](https://www.biorxiv.org/content/10.1101/2023.04.11.536333v1) \
-  Journal of Computational Biology, 2024
-
-* Hongzhi Wen<sup>\*</sup>, **Wenzhuo Tang<sup>\*</sup>**, Xinnan Dai, Jiayuan Ding, Wei Jin, Yuying Xie, Jiliang Tang \
-  **CellPLM: Pre-training of Cell Language Model Beyond Single Cells** [[pdf]](https://openreview.net/forum?id=BKXvPDekud) \
-  The Twelfth International Conference on Learning Representations (ICLR). 2024.
-
-* Dylan Molho<sup>\*</sup>, Jiayuan Ding<sup>\*</sup>, **Wenzhuo Tang<sup>\*</sup>**, Zhaoheng Li, Hongzhi Wen, Yixin Wang, Julian Venegas, Wei Jin, Renming Liu, Runze Su, Patrick Danaher, Robert Yang, Yu Leo Lei, Yuying Xie, Jiliang Tang \
-  **Deep Learning in Single-Cell Analysis** [[pdf]](https://dl.acm.org/doi/abs/10.1145/3641284) \
-  ACM Transactions on Intelligent Systems and Technology (2024).
-
-* **Wenzhuo Tang<sup>\*</sup>**, Hongzhi Wen<sup>\*</sup>, Renming Liu<sup>\*</sup>, Jiayuan Ding, Wei Jin, Yuying Xie, Hui Liu, Jiliang Tang \
-  **Single-Cell Multimodal Prediction via Transformers** [[pdf]](https://arxiv.org/abs/2303.00233) [[code]](https://github.com/OmicsML/scMoFormer/) \
-  In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM), 2023
+* Y. Wang<sup>*</sup>, J. Ding<sup>*</sup>, L. Wu, A. Wardhani, P. Danaher, Q. Lu, H. Wen, **W. Tang**, et al. \
+  **MEM-GAN: A Pseudo Membrane Generator for Single-cell Imaging in Fluorescent Microscopy.** \
+  *bioRxiv*, 2023.
