@@ -17,11 +17,11 @@ author_profile: true
 
 **Journal Papers**
 
-* J. Ding<sup>*</sup>, H. Wen<sup>*</sup>, **W. Tang<sup>*</sup>**, R. Liu<sup>*</sup>, et al. \
+* J. Ding<sup>\*</sup>, H. Wen<sup>\*</sup>, **W. Tang<sup>\*</sup>**, R. Liu<sup>\*</sup>, et al. \
   **DANCE: A Deep Learning Library and Benchmark Platform for Single-cell Analysis.** [[link]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03211-z) \
   *Genome Biology*, 2024.
 
-* D. Molho<sup>*</sup>, J. Ding<sup>*</sup>, **W. Tang<sup>*</sup>**, et al. \
+* D. Molho<sup>\*</sup>, J. Ding<sup>\*</sup>, **W. Tang<sup>\*</sup>**, et al. \
   **Deep Learning in Single-Cell Analysis.** [[pdf]](https://dl.acm.org/doi/abs/10.1145/3641284) \
   *ACM Transactions on Intelligent Systems and Technology (ACM TIST)*, 2024.
 
@@ -40,15 +40,15 @@ author_profile: true
   **Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models.** [[pdf]](https://arxiv.org/abs/2406.01899) \
   *NeurIPS*, 2025.
 
-* H. Wen<sup>*</sup>, **W. Tang<sup>*</sup>**, et al. \
+* H. Wen<sup>\*</sup>, **W. Tang<sup>\*</sup>**, et al. \
   **CellPLM: Pre-training of Cell Language Model Beyond Single Cells.** [[pdf]](https://openreview.net/forum?id=BKXvPDekud) \
   *ICLR*, 2024.
 
-* H. Mao<sup>*</sup>, Z. Chen<sup>*</sup>, **W. Tang**, et al. \
+* H. Mao<sup>\*</sup>, Z. Chen<sup>\*</sup>, **W. Tang**, et al. \
   **Position: Graph Foundation Models Are Already Here.** [[pdf]](https://arxiv.org/abs/2402.02216) \
   *ICML* (**Spotlight**), 2024.
 
-* **W. Tang<sup>*</sup>**, H. Wen<sup>*</sup>, R. Liu<sup>*</sup>, et al. \
+* **W. Tang<sup>\*</sup>**, H. Wen<sup>\*</sup>, R. Liu<sup>\*</sup>, et al. \
   **Single-Cell Multimodal Prediction via Transformers.** [[pdf]](https://arxiv.org/abs/2303.00233) \
   *CIKM*, 2023.
 
@@ -59,7 +59,7 @@ author_profile: true
 
 **Preprints**
 
-* **W. Tang<sup>*</sup>**, R. Liu<sup>*</sup>, H. Wen, X. Dai, J. Ding, H. Li, W. Fan, Y. Xie, J. Tang. \
+* **W. Tang<sup>\*</sup>**, R. Liu<sup>\*</sup>, H. Wen, X. Dai, J. Ding, H. Li, W. Fan, Y. Xie, J. Tang. \
   **A General Single-Cell Analysis Framework via Conditional Diffusion Generative Models.** [[pdf]](https://www.biorxiv.org/content/10.1101/2023.10.13.562243v1) \
   *bioRxiv*, 2023.
 
@@ -71,6 +71,6 @@ author_profile: true
   **DANCE 2.0: Transforming Single-Cell Analysis from Black Box to Transparent Workflow.** \
   *bioRxiv*, 2025.
 
-* Y. Wang<sup>*</sup>, J. Ding<sup>*</sup>, L. Wu, A. Wardhani, P. Danaher, Q. Lu, H. Wen, **W. Tang**, et al. \
+* Y. Wang<sup>\*</sup>, J. Ding<sup>\*</sup>, L. Wu, A. Wardhani, P. Danaher, Q. Lu, H. Wen, **W. Tang**, et al. \
   **MEM-GAN: A Pseudo Membrane Generator for Single-cell Imaging in Fluorescent Microscopy.** \
   *bioRxiv*, 2023.

@@ -17,7 +17,7 @@ You can download my CV [here]({{ '/files/WenzhuoTang_CV.pdf' | relative_url }}).
 News
 ======
 * [09/2025] One work ([UniAug](https://arxiv.org/abs/2406.01899)) got accepted by [NeurIPS'25](https://neurips.cc/)!
-* [06/2024] Glad to start my visit at Stanford University working with Prof. [Xiaojie Qiu](https://www.devo-evo.com/)
+* [06/2024] Glad to start my visit at Stanford University working with Prof. [Xiaojie Qiu](https://www.devo-evo.com/)!
 * [06/2024] One work ([SpatialCTD](https://www.biorxiv.org/content/10.1101/2023.04.11.536333v1)) got accepted by [Journal of Computational Biology](https://home.liebertpub.com/publications/journal-of-computational-biology/31)!
 * [05/2024] One work ([GFM](https://arxiv.org/abs/2402.02216)) got accepted by [ICML'24](https://icml.cc/) as **Spotlight**!
 * [02/2024] One work ([DANCE package](https://www.biorxiv.org/content/10.1101/2022.10.19.512741v2)) got accepted by [Genome Biology](https://genomebiology.biomedcentral.com/)!
