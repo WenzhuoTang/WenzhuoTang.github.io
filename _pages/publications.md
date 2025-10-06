@@ -17,7 +17,7 @@ author_profile: true
 
 **Journal Papers**
 
-* J. Ding<sup>\*</sup>, H. Wen<sup>\*</sup>, **W. Tang<sup>\*</sup>**, R. Liu<sup>\*</sup>, et al. \
+* J. Ding<sup>\*</sup>, R. Liu<sup>\*</sup>, H. Wen<sup>\*</sup>, **W. Tang<sup>\*</sup>**, et al. \
   **DANCE: A Deep Learning Library and Benchmark Platform for Single-cell Analysis.** [[link]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03211-z) \
   *Genome Biology*, 2024.
 
